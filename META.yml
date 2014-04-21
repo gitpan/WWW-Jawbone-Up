@@ -6,10 +6,10 @@ build_requires:
   Test::Approx: 0
   Test::More: 0.88
 configure_requires:
-  Module::Build::Tiny: 0.023
+  Module::Build::Tiny: 0.035
 dynamic_config: 0
-generated_by: 'Dist::Milla version v1.0.2, Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.120921'
-license: perl
+generated_by: 'Dist::Milla version v1.0.4, Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.120921'
+license: mit
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -32,4 +32,4 @@ resources:
   bugtracker: https://github.com/bentglasstube/WWW-Jawbone-Up/issues
   homepage: https://github.com/bentglasstube/WWW-Jawbone-Up
   repository: https://github.com/bentglasstube/WWW-Jawbone-Up.git
-version: 1.32.1
+version: 1.32.2
