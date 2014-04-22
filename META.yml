@@ -3,6 +3,7 @@ abstract: 'Unofficial Jawbone UP API'
 author:
   - 'Alan Berndt <alan@eatabrick.org>'
 build_requires:
+  POSIX: 0
   Test::Approx: 0
   Test::More: 0.88
 configure_requires:
@@ -32,4 +33,6 @@ resources:
   bugtracker: https://github.com/bentglasstube/WWW-Jawbone-Up/issues
   homepage: https://github.com/bentglasstube/WWW-Jawbone-Up
   repository: https://github.com/bentglasstube/WWW-Jawbone-Up.git
-version: 1.32.3
+version: 1.32.4
+x_contributors:
+  - 'Slaven Rezic <slaven@rezic.de>'
